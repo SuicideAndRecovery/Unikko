@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name     Unikko
-// @version  1
+// @version  2
 // @run-at   document-idle
-// @include  https://sanctionedsuicide.com/whats-new/news-feed
+// @include  https://sanctioned-suicide.org/whats-new/news-feed
 // @grant    none
 // ==/UserScript==
 // License: MIT
